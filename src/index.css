@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  background: radial-gradient(
+    circle,
+    rgb(33, 33, 33) 0%,
+    rgb(21, 21, 21) 50%,
+    rgb(0, 0, 0) 100%
+  );
+  height: 100%;
+  width: 100%;
+}

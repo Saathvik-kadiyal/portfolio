@@ -1,0 +1,29 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+main {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+    position: absolute;
+    width: 90%;
+    height: 70%;
+    border-radius: 30px;
+    display: flex;
+    padding: 4%;
+    background-color: rgb(16, 16, 16);
+    color: white;
+    text-shadow: 1px 1px 5px rgba(132, 31, 31, 0.5);
+  }
