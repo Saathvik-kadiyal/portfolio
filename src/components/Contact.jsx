@@ -79,7 +79,7 @@ const Contact = () => {
     LinkedIn
   </a>
   <a
-    href="https://drive.google.com/file/d/your-drive-file-id/view?usp=sharing"
+    href="https://drive.google.com/file/d/14AShUm_glPhtTaLQG6d1TWQcy8cJWxwt/view?usp=sharing"
     target="_blank"
     rel="noopener noreferrer"
     className="text-xl font-semibold hover:text-[#9b00ff] transition-all"
