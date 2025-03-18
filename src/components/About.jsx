@@ -12,6 +12,7 @@ const projects = [
   { name: "Samsung", link: "https://gsap-amber.vercel.app/", para: "Developed an interactive product showcase using HTML, CSS, JavaScript, and GSAP." },
   { name: "Petshop", link: "https://petshop-two-green.vercel.app/", para: "Built a dynamic e-commerce platform for selling pets, React, Context API, and Tailwind CSS." },
   { name: "Forum For People's Health", link: "https://edgerog.github.io/forumforpeopleshealth/", para: "A mockup built using HTML, CSS, JS during my internship." },
+  { name: "Quiz Application", link: "https://quiz-flame-iota.vercel.app/", para: "A quiz application where users can attempt quiz and admins can create quizes" }
 ];
 
 const About = () => {
